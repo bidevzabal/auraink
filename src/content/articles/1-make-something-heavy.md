@@ -1,10 +1,10 @@
 ---
 isDraft: false
-title: Make Something Heavy
-snippet: We're creating more than ever, but it weighs nothing.
-slug: make-something-heavy
-author: Anu Atluru 
-category: Craft
+title: Tattoo trends in 2025
+snippet: 10 Tattoo Styles You Need to Know About in 2025.
+slug: Tatto-Trends-2025
+author: Jon Martinez 
+category: Inspiration
 readingDuration: 1
 pubDate: 2025 3 9
 coverAlt: Women Holding Things - Maira Kalman, 2022.
@@ -15,7 +15,6 @@ cover: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:ste
 # Make Something Heavy.
 We're creating more than ever, but it weighs nothing.
 
-![Women Holding Things - Maira Kalman, 2022.](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Facc54571-c711-44a0-a529-a501d8565466_680x878.jpeg)
 
 ## We instinctively tie weight to value.
 Gold is solid. Wood is dense. And back when we still printed things on paper, a heavy stapler was a luxury.

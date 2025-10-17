@@ -2,31 +2,71 @@
 import { Image } from 'astro:assets';
 import H1 from "../components/h1.astro";
 import InfoLayout from "../layouts/InfoLayout.astro";
-import ACGenerator from "../assets/ac-generator.jpg";
-import FluidPropulsion from "../assets/fluid-propulsion.jpg";
-import ElectricMotor from "../assets/electro-magnetic-motor.jpg";
+import ACGenerator from "../assets/1.webp";
+import FluidPropulsion from "../assets/2.webp";
+import ElectricMotor from "../assets/3.webp";
+import Electric from "../assets/4.webp";
+import Elec from "../assets/5.webp";
+import F from "../assets/6.webp";
+import Fl from "../assets/7.webp";
+import Flu from "../assets/8.webp";
+import Flui from "../assets/9.webp";
+
+
 
 const projects = [
      {
-          title: "AC Generator",
-          description: "Transform mechanical energy into alternating current, powering the modern electric grid",
+          title: " ",
+          description: " ",
           image: ACGenerator
      },
      {
-          title: "Fluid Propulsion",
-          description: "Bladeless turbine using fluid dynamics for efficient, low-friction propulsion.",
+          title: " ",
+          description: " ",
           image: FluidPropulsion
      },
      {
-          title: "Electro-Magnetic Motor",
-          description: "Harness alternating current to produce smooth, efficient rotary motion.",
+          title: " ",
+          description: " ",
           image: ElectricMotor
-     }];
+     },
+     {
+          title: " ",
+          description: " ",
+          image: Electric
+     },
+     {
+          title: " ",
+          description: " ",
+          image: Elec
+     },
+      {
+          title: " ",
+          description: " ",
+          image: F
+     },
+      {
+          title: " ",
+          description: " ",
+          image: Fl
+     },
+      {
+          title: " ",
+          description: " ",
+          image: Flu
+     },
+      {
+          title: " ",
+          description: " ",
+          image: Flui
+     }
+     ];
 ---
 
 <InfoLayout>
      <div class="p-4 sm:pt-8 sm:px-12 pb-20 min-h-dvh">
-          <H1> Projects </H1>
+          <H1>latest works
+</H1>
 
           <ul class="mt-4 sm:mt-12 grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-16 sm:gap-8">
                {projects.map((project) => (
